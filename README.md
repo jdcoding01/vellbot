@@ -1,2 +1,1 @@
-# vellbot
-Discord Bot developed in the popular Discord.js library
+#Pro version of the Discord bot Vell, made by Alphi#9839
